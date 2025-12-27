@@ -66,28 +66,29 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsohail07&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imsohail07&theme=onedark&no-frame=true&margin-w=15" />
 </p>
+
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="mailto:shirazisohail.md@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="40"/>
   </a>
   <a href="https://linkedin.com/in/sohail-shirazi-180mss7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40"/>
   </a>
   <a href="https://instagram.com/imsohail.s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/imsohail07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-imsohail07-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/>
   </a>
 </p>
+
 
 ---
 
