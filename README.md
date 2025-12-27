@@ -73,9 +73,21 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **shirazisohail.md@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/sohail-shirazi-180mss7**
-- 🌐 GitHub: **github.com/imsohail07**
+
+<p align="left">
+  <a href="mailto:shirazisohail.md@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sohail-shirazi-180mss7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/imsohail.s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/imsohail07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-imsohail07-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
