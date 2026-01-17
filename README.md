@@ -46,6 +46,24 @@
 
 ---
 
+---
+
+## 🎓 Certifications & Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Data%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wipro-TalentNext-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coursera-Machine%20Learning-0056D2?style=for-the-badge&logo=coursera"/>
+
+</p>
+
+---
+
+
+---
 ## 📌 Featured Projects
 - 📰 **NewsHub** – Real-time News Aggregator
 - 🎮 **Sudoku PWA** – Offline-ready React App
@@ -92,4 +110,4 @@
 
 ---
 
-⭐ *Open to internships, research collaborations, and open-source contributions.*
+⭐ *Open to internships, collaborations, and open-source contributions.*
