@@ -51,12 +51,12 @@
 
 <p align="center">
 
-<a href="CERTIFICATE_LINK_1">
-  <img src="BADGE_IMAGE_1" width="90"/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A65ADC9520EB99C91BD8B98555366E3E3E990610CFA6C60D3DE2D167EBE62CF7" title="Oracle Cloud Data Science Certified">
+  <img src="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A65ADC9520EB99C91BD8B98555366E3E3E990610CFA6C60D3DE2D167EBE62CF7" width="90"/>
 </a>
 
-<a href="CERTIFICATE_LINK_2">
-  <img src="BADGE_IMAGE_2" width="90"/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0EBB613E7C60082A189519B73D9569A140E22EF2B0F45A6E0E83E5988507FDEE" title="Oracle Cloud Generative AI Certified">
+  <img src="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0EBB613E7C60082A189519B73D9569A140E22EF2B0F45A6E0E83E5988507FDEE" width="90"/>
 </a>
 
 <a href="CERTIFICATE_LINK_3">
@@ -88,14 +88,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsohail07&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
-
----
 
 <p align="center">
   <a href="mailto:shirazisohail.md@gmail.com">
