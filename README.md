@@ -51,17 +51,18 @@
 
 <p align="center">
 
-<a href="CERTIFICATE_LINK_HERE">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<a href="CERTIFICATE_LINK_1">
+  <img src="BADGE_IMAGE_1" width="90"/>
 </a>
 
-<a href="CERTIFICATE_LINK_HERE">
-  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning-0056D2?style=for-the-badge&logo=coursera"/>
+<a href="CERTIFICATE_LINK_2">
+  <img src="BADGE_IMAGE_2" width="90"/>
 </a>
 
-<a href="CERTIFICATE_LINK_HERE">
-  <img src="https://img.shields.io/badge/Google-Data%20Engineering-4285F4?style=for-the-badge&logo=googlecloud"/>
+<a href="CERTIFICATE_LINK_3">
+  <img src="BADGE_IMAGE_3" width="90"/>
 </a>
+
 
 </p>
 
